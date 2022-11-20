@@ -1,1 +1,1 @@
-# subpixel_classification
+# pixel_classification
